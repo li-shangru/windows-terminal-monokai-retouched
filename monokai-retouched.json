@@ -1,0 +1,23 @@
+{
+    "background": "#222222",
+    "black": "#403E41",
+    "blue": "#FC9867",
+    "brightBlack": "#69676C",
+    "brightBlue": "#FD9353",
+    "brightCyan": "#5AD4E6",
+    "brightGreen": "#7BD88F",
+    "brightPurple": "#948AE3",
+    "brightRed": "#FC618D",
+    "brightWhite": "#F7F1FF",
+    "brightYellow": "#FCE566",
+    "cursorColor": "#F7F1FF",
+    "cyan": "#5AD4E6",
+    "foreground": "#F7F1FF",
+    "green": "#7BD88F",
+    "name": "Monokai Retouched",
+    "purple": "#948AE3",
+    "red": "#FC618D",
+    "selectionBackground": "#BAB6C0",
+    "white": "#F7F1FF",
+    "yellow": "#FCE566"
+}
