@@ -16,4 +16,4 @@ A slightly tweaked Monokai theme for [Windows Terminal](https://github.com/micro
 
 ## Screenshot
 
-![Monokai Retouched theme for Windows Terminal](/screenshot.png)
+![Monokai Retouched theme for Windows Terminal](/screenshot.jpg)
