@@ -1,6 +1,6 @@
 # Monokai Retouched theme for [Windows Terminal](https://github.com/microsoft/terminal)
 
-![GitHub](https://img.shields.io/github/license/MaxsLi/windows-terminal-monokai-retouched)
+![GitHub](https://img.shields.io/github/license/li-shangru/windows-terminal-monokai-retouched)
 
 ## Introduction
 
